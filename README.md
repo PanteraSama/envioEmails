@@ -1,0 +1,2 @@
+# envioEmails
+Simulador de envío de email Si los campos de Para, Asuntos y Mensaje están vacíos, el mail no puede enviarse y los campos se muestran en rojo.  Botón para borrar todo el contenido del formulario (RESET).  Al presionar el botón enviar, un spinner de carga se muestra.  Después del spinner un gráfico de enviado deberá mostrarse.  Framework Materialize (Javascript / jQuery) HTML5 CSS BOOTSTRAP 
